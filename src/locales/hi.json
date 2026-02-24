@@ -1,0 +1,240 @@
+{
+  "home": {
+    "title": "होम",
+    "planJourney": "अपना मार्ग खोजें"
+  },
+  "welcome": "पटना मेट्रो में आपका स्वागत है",
+  "stations": {
+    "Danapur Cantonment": "दनापुर छावनी",
+    "Saguna Mor": "सगुना मोड़",
+    "RPS Mor": "आरपीएस मोड़",
+    "Patliputra": "पटलीपुत्र",
+    "Rukanpura": "रुकनपुरा",
+    "Raja Bazar": "राजा बाजार",
+    "Patna Zoo": "पटना चिड़ियाघर",
+    "Vikas Bhawan": "विकास भवन",
+    "Vidyut Bhawan": "विद्युत भवन",
+    "Patna Junction": "पटना जंक्शन",
+    "CNLU": "सीएनएलयू",
+    "Mithapur": "मिथापुर",
+    "Ramkrishna Nagar": "रामकृष्ण नगर",
+    "Jaganpura": "जगनपुरा",
+    "Khemni Chak": "खेमनी चक",
+    "Akashvani": "आकाशवाणी",
+    "Gandhi Maidan": "गांधी मैदान",
+    "PMCH": "पीएमसीएच",
+    "University": "विश्वविद्यालय",
+    "Moin-ul-Haq Stadium": "मोइन-उल-हक स्टेडियम",
+    "Rajendra Nagar": "राजेंद्र नगर",
+    "Malahi Pakri": "मलाही पकड़ी",
+    "Bhootnath": "भूतनाथ",
+    "Zero Mile": "ज़ीरो माइल",
+    "New ISBT": "नया आईएसबीटी"
+  },
+  "footer": {
+    "appName": "पटना मेट्रो",
+    "appTagline": "बिहार की राजधानी, नई गति से",
+    "aboutTitle": "पटना मेट्रो",
+    "aboutDescription": "बिहार की राजधानी में शहरी परिवहन का भविष्य।",
+    "highlights": {
+      "operatingHours": "संचालन समय",
+      "stations": "स्टेशन",
+      "fareRange": "किराया सीमा",
+      "frequency": "आवृत्ति",
+      "lines": "2 लाइनें",
+      "lineColors": "रेड और ब्लू",
+      "phase1Launch": "चरण 1 की शुरुआत"
+    },
+    "quickLinksTitle": "त्वरित लिंक",
+    "quickLinks": {
+      "home": "होम",
+      "routeFinder": "रूट फाइंडर",
+      "fareCalculator": "किराया कैलकुलेटर",
+      "metroMap": "मेट्रो मैप",
+      "timings": "समय सारणी",
+      "fareInfo": "भाड़ा जानकारी"
+    },
+    "metroLinesTitle": "मेट्रो लाइनें",
+    "contactUsTitle": "संपर्क करें",
+    "connectWithUs": "हमसे जुड़ें",
+    "address": "पटना मेट्रो रेल निगम, बेली रोड, पटना",
+    "phone": "+91 9871 874 041",
+    "email": "rachitsharma300.dev@gmail.com",
+    "subscribeTitle": "अपडेट के लिए सब्सक्राइब करें",
+    "subscribePlaceholder": "अपना ईमेल",
+    "subscribeButton": "सब्सक्राइब करें",
+    "copyright": "© {{year}} पटना मेट्रो",
+    "privacyPolicy": "गोपनीयता नीति",
+    "termsOfService": "सेवा की शर्तें",
+    "sitemap": "साइटमैप",
+    "developedBy": "रचित द्वारा पटना मेट्रो के लिए एक पहल",
+    "madeBy": "रचित शर्मा द्वारा ❤️ के साथ बनाया गया"
+  },
+  "RouteFinder": {
+    "sourceStation": "प्रारंभ स्टेशन",
+    "selectSource": "स्रोत चुनें",
+    "destinationStation": "गंतव्य स्टेशन",
+    "selectDestination": "गंतव्य चुनें",
+    "findRoute": "रूट खोजें",
+    "calculatingRoute": "रूट निकाल रहे हैं...",
+    "reverse": "रिवर्स"
+  },
+  "fareInfoPage": {
+    "title": "पटना मेट्रो भाड़ा जानकारी",
+    "subtitle": "यात्रा से पहले जानें - सटीक भाड़ा विवरण के साथ अपनी यात्रा की योजना बनाएं",
+    "fareStructure": "भाड़ा संरचना",
+    "distanceRange": "दूरी सीमा (किमी)",
+    "fare": "भाड़ा (₹)",
+    "ticketOptions": "टिकट विकल्प",
+    "smartCards": "स्मार्ट कार्ड - प्रत्येक यात्रा पर 10% छूट",
+    "dailyPass": "डेली पास - ₹120 में असीमित यात्रा",
+    "touristPass": "टूरिस्ट पास - ₹300 में 3 दिन की असीमित यात्रा",
+    "studentPass": "स्टूडेंट पास - वैध आईडी पर 25% छूट",
+    "quickFacts": "त्वरित तथ्य",
+    "operatingHours": "संचालन समय",
+    "operatingTime": "सुबह 5:30 - रात 11:30 (सोमवार-रविवार)",
+    "frequency": "आवृत्ति",
+    "frequencyDetail": "पीक: 5 मिनट | ऑफ-पीक: 10 मिनट",
+    "firstLastTrain": "प्रथम एवं अंतिम ट्रेन",
+    "firstTrain": "प्रथम: दोनों टर्मिनल से सुबह 5:30 बजे",
+    "lastTrain": "अंतिम: दोनों टर्मिनल से रात 11:30 बजे",
+    "contact": "संपर्क",
+    "helpline": "हेल्पलाइन: 155370 (24x7)",
+    "email": "ईमेल: info@patnametro.in",
+    "fareCalculator": "भाड़ा कैलकुलेटर",
+    "fromStation": "प्रस्थान स्टेशन",
+    "toStation": "गंतव्य स्टेशन",
+    "selectStation": "स्टेशन चुनें",
+    "calculateFare": "भाड़ा निकालें",
+    "importantNotice": "महत्वपूर्ण सूचना",
+    "noticeDetails": "• 90 सेमी से कम ऊँचाई वाले बच्चों का सफर निःशुल्क\n• वरिष्ठ नागरिकों (60+ वर्ष) को 20% छूट\n• स्मार्ट कार्ड ऑनलाइन या किसी भी स्टेशन पर रिचार्ज किए जा सकते हैं\n• भाड़ा परिवर्तन के अधीन है। अंतिम अपडेट: "
+  },
+  "aboutPage": {
+    "stats": {
+      "stations": "स्टेशन",
+      "ridership": "दैनिक यात्री",
+      "status": "परियोजना स्थिति",
+      "team": "टीम के सदस्य",
+      "kmLength": "किमी लंबाई",
+      "launch": "शुरुआत"
+    },
+    "overviewTitle": "परिचय",
+    "overviewPara1": "पटना मेट्रो ₹13,365 करोड़ की लागत वाली एक रैपिड ट्रांजिट प्रणाली है जो बिहार की राजधानी पटना में निर्माणाधीन है। 2018 में अनुमोदित, यह शहरी परिवहन में क्रांति लाएगी।",
+    "keyFactsTitle": "मुख्य तथ्य",
+    "totalLength": "कुल लंबाई",
+    "totalLengthValue": "31 किमी (फेज 1)",
+    "lines": "लाइनें",
+    "linesValue": "2 कॉरिडोर (ब्लू और रेड लाइन)",
+    "projectCost": "परियोजना लागत",
+    "projectCostValue": "₹13,365 करोड़ (फेज 1)",
+    "expectedCompletion": "अपेक्षित पूर्णता",
+    "expectedCompletionValue": "2026 (फेज 1)",
+    "projectTimelineTitle": "परियोजना समयरेखा",
+    "officialWebsiteButton": "वेबसाइट पर जाएं",
+    "facts": {
+      "totalLengthDetail": "एलिवेटेड: 22.5 किमी • भूमिगत: 9.997 किमी",
+      "linesDetail": "रेड लाइन: 14.45 किमी • ब्लू लाइन: 16.94 किमी",
+      "costDetail": "केंद्र सरकार: ₹6,682 करोड़ • राज्य सरकार: ₹6,683 करोड़",
+      "completionDetail": "चरण 2 अनुमोदन 2027 तक अपेक्षित"
+    },
+    "developer": {
+      "title": "फुल स्टैक डेवलपर",
+      "description": "पैशन और सटीकता के साथ पटना मेट्रो के डिजिटल अनुभव को तैयार कर रहा हूँ। बिहार की पहली मेट्रो को आपकी उंगलियों पर लाना।"
+    },
+    "timeline": {
+      "events": [
+        {
+          "date": "2014",
+          "title": "अवधारणा प्रस्तावित",
+          "description": "पटना मेट्रो का प्रारंभिक प्रस्ताव केंद्र सरकार को सौंपा गया"
+        },
+        {
+          "date": "2016",
+          "title": "व्यवहार्यता अध्ययन",
+          "description": "RITES द्वारा विस्तृत परियोजना रिपोर्ट तैयार की गई"
+        },
+        {
+          "date": "Feb 2018",
+          "title": "अनुमोदन प्रदान किया गया",
+          "description": "केंद्रीय मंत्रिमंडल ने पटना मेट्रो परियोजना को मंजूरी दी"
+        },
+        {
+          "date": "Feb 2019",
+          "title": "नींव रखी गई",
+          "description": "प्रधानमंत्री मोदी ने परियोजना की आधारशिला रखी"
+        },
+        {
+          "date": "2021",
+          "title": "निर्माण शुरू",
+          "description": "प्राथमिक कॉरिडोर पर वास्तविक निर्माण कार्य शुरू"
+        },
+        {
+          "date": "2025",
+          "title": "पहला ट्रायल रन",
+          "description": "पूर्ण खंडों पर अपेक्षित ट्रायल रन"
+        },
+        {
+          "date": "2027 (अपेक्षित)",
+          "title": "पूर्ण संचालन",
+          "description": "फेज 1 के पूरा होने की उम्मीद"
+        }
+      ]
+    }
+  },
+  "nav": {
+    "home": "होम",
+    "routeFinder": "रूट फाइंडर",
+    "metroMap": "मेट्रो मानचित्र",
+    "fareInfo": "किराया जानकारी",
+    "about": "परिचय"
+  },
+  "JourneySummary": {
+    "title": "यात्रा सारांश",
+    "time": "समय",
+    "minutes": "मिनट",
+    "fare": "किराया",
+    "stations": "स्टेशंस"
+  },
+  "serviceTimings": "सेवा समय",
+  "firstTrain": "पहली ट्रेन",
+  "lastTrain": "आखिरी ट्रेन",
+  "frequency": "आवृत्ति",
+  "mins": "मिनट",
+  "keyInterchanges": "मुख्य इंटरचेंज",
+  "blueLine": "ब्लू लाइन",
+  "redLine": "रेड लाइन",
+  "elevated": "एलिवेटेड",
+  "underground": "अंडरग्राउंड",
+  "totalStations": "कुल स्टेशन",
+  "totalLength": "कुल लंबाई",
+  "corridors": "कॉरिडोर",
+  "busiestStations": "व्यस्त और प्रमुख स्टेशन",
+  "metroStats": {
+    "title": "🏗️ पटना मेट्रो - एक नज़र में",
+    "elevated": "एलिवेटेड",
+    "underground": "अंडरग्राउंड",
+    "stations": "स्टेशन",
+    "totalStations": "कुल स्टेशन",
+    "totalLength": "कुल लंबाई",
+    "km": "किमी",
+    "corridors": "कॉरिडोर",
+    "busiestStations": "व्यस्त और प्रमुख स्टेशन"
+  },
+  "stationsDesc": {
+    "PatnaJunction": "सबसे व्यस्त इंटरचेंज • रेलवे स्टेशन से सीधा कनेक्शन",
+    "GandhiMaidan": "ऐतिहासिक स्थल • व्यस्त क्षेत्र",
+    "PMCH": "मेडिकल कॉलेज • अस्पताल क्षेत्र",
+    "PatnaZoo": "पर्यटक स्थल • सप्ताहांत में भीड़",
+    "NewISBT": "बस टर्मिनल • परिवहन केंद्र",
+    "appName": "पटना मेट्रो",
+    "appTagline": "बिहार की राजधानी, नई गति से",
+    "menu": "मेन्यू",
+    "settings": "सेटिंग्स",
+    "tapToExplore": "जानने के लिए टैप करें",
+    "switchToHindi": "हिंदी में बदलें",
+    "switchToEnglish": "अंग्रेजी में बदलें",
+    "madeWithLove": "प्यार से बनाया गया",
+    "bihar": "बिहार",
+    "version": "वर्शन"
+  }
+}

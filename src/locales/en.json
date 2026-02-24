@@ -1,0 +1,240 @@
+{
+  "home": {
+    "title": "Home",
+    "planJourney": "Find Your Route"
+  },
+  "welcome": "Welcome to Patna Metro",
+  "stations": {
+    "Danapur Cantonment": "Danapur Cantonment",
+    "Saguna Mor": "Saguna Mor",
+    "RPS Mor": "RPS Mor",
+    "Patliputra": "Patliputra",
+    "Rukanpura": "Rukanpura",
+    "Raja Bazar": "Raja Bazar",
+    "Patna Zoo": "Patna Zoo",
+    "Vikas Bhawan": "Vikas Bhawan",
+    "Vidyut Bhawan": "Vidyut Bhawan",
+    "Patna Junction": "Patna Junction",
+    "CNLU": "CNLU",
+    "Mithapur": "Mithapur",
+    "Ramkrishna Nagar": "Ramkrishna Nagar",
+    "Jaganpura": "Jaganpura",
+    "Khemni Chak": "Khemni Chak",
+    "Akashvani": "Akashvani",
+    "Gandhi Maidan": "Gandhi Maidan",
+    "PMCH": "PMCH",
+    "University": "University",
+    "Moin-ul-Haq Stadium": "Moin-ul-Haq Stadium",
+    "Rajendra Nagar": "Rajendra Nagar",
+    "Malahi Pakri": "Malahi Pakri",
+    "Bhootnath": "Bhootnath",
+    "Zero Mile": "Zero Mile",
+    "New ISBT": "New ISBT"
+  },
+  "footer": {
+    "appName": "Patna Metro",
+    "appTagline": "Bihar's capital on the move",
+    "aboutTitle": "Patna Metro",
+    "aboutDescription": "The future of urban transportation in Bihar's capital city.",
+    "highlights": {
+      "operatingHours": "Operating Hours",
+      "stations": "Stations",
+      "fareRange": "Fare Range",
+      "frequency": "Frequency",
+      "lines": "2 Lines",
+      "lineColors": "Red & Blue",
+      "phase1Launch": "Phase 1 Launch"
+    },
+    "quickLinksTitle": "Quick Links",
+    "quickLinks": {
+      "home": "Home",
+      "routeFinder": "Route Finder",
+      "fareCalculator": "Fare Calculator",
+      "metroMap": "Metro Map",
+      "timings": "Timings",
+      "fareInfo": "Fare Info"
+    },
+    "metroLinesTitle": "Metro Lines",
+    "contactUsTitle": "Contact Us",
+    "connectWithUs": "Connect With Us",
+    "address": "Patna Metro Rail Corporation, Bailey Road, Patna",
+    "phone": "+91 9871 874 041",
+    "email": "rachitsharma300.dev@gmail.com",
+    "subscribeTitle": "Subscribe to Updates",
+    "subscribePlaceholder": "Your email",
+    "subscribeButton": "Subscribe",
+    "copyright": "© {{year}} Patna Metro",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "sitemap": "Sitemap",
+    "developedBy": "A Patna Metro initiative by Rachit",
+    "madeBy": "Made with ❤️ by Rachit Sharma"
+  },
+  "RouteFinder": {
+    "sourceStation": "Source Station",
+    "selectSource": "Select Source",
+    "destinationStation": "Destination Station",
+    "selectDestination": "Select Destination",
+    "findRoute": "Find Route",
+    "calculatingRoute": "Calculating Route...",
+    "reverse": "Reverse"
+  },
+  "fareInfoPage": {
+    "title": "Patna Metro Fare Information",
+    "subtitle": "Know before you go - Plan your journey with accurate fare details",
+    "fareStructure": "Fare Structure",
+    "distanceRange": "Distance Range (km)",
+    "fare": "Fare (₹)",
+    "ticketOptions": "Ticket Options",
+    "smartCards": "Smart Cards - 10% discount on every ride",
+    "dailyPass": "Daily Pass - Unlimited travel for ₹120",
+    "touristPass": "Tourist Pass - 3-day unlimited travel for ₹300",
+    "studentPass": "Student Pass - 25% discount with valid ID",
+    "quickFacts": "Quick Facts",
+    "operatingHours": "Operating Hours",
+    "operatingTime": "5:30 AM - 11:30 PM (Monday-Sunday)",
+    "frequency": "Frequency",
+    "frequencyDetail": "Peak: 5 minutes | Off-peak: 10 minutes",
+    "firstLastTrain": "First & Last Train",
+    "firstTrain": "First: 5:30 AM from both terminals",
+    "lastTrain": "Last: 11:30 PM from both terminals",
+    "contact": "Contact",
+    "helpline": "Helpline: 155370 (24x7)",
+    "email": "Email: info@patnametro.in",
+    "fareCalculator": "Fare Calculator",
+    "fromStation": "From Station",
+    "toStation": "To Station",
+    "selectStation": "Select station",
+    "calculateFare": "Calculate Fare",
+    "importantNotice": "Important Notice",
+    "noticeDetails": "• Children below 90 cm height travel free\n• Senior citizens (60+ years) get 20% discount\n• Smart cards can be recharged online or at any station\n• Fares are subject to revision. Last updated: "
+  },
+  "aboutPage": {
+    "stats": {
+      "stations": "Stations",
+      "ridership": "Daily Ridership",
+      "status": "Project Status",
+      "team": "Team Members",
+      "kmLength": "km Length",
+      "launch": "Launch"
+    },
+    "overviewTitle": "Overview",
+    "overviewPara1": "Patna Metro is a ₹13,365 crore rapid transit system under construction in Patna, Bihar. Approved in 2018, it's set to revolutionize urban transportation in Bihar's capital city.",
+    "keyFactsTitle": "Key Facts",
+    "totalLength": "Total Length",
+    "totalLengthValue": "31 km (Phase 1)",
+    "lines": "Lines",
+    "linesValue": "2 corridors (Blue & Red Line)",
+    "projectCost": "Project Cost",
+    "projectCostValue": "₹13,365 crore (Phase 1)",
+    "expectedCompletion": "Expected Completion",
+    "expectedCompletionValue": "2026 (Phase 1)",
+    "projectTimelineTitle": "Project Timeline",
+    "officialWebsiteButton": "Visit Website",
+    "facts": {
+      "totalLengthDetail": "Elevated: 22.5 km • Underground: 9.997 km",
+      "linesDetail": "Red Line: 14.45 km • Blue Line: 16.94 km",
+      "costDetail": "Central Govt: ₹6,682 Cr • State Govt: ₹6,683 Cr",
+      "completionDetail": "Phase 2 approval expected by 2027"
+    },
+    "developer": {
+      "title": "Full Stack Developer",
+      "description": "Crafting the digital experience for Patna Metro with passion and precision. Bringing Bihar's first metro to your fingertips."
+    },
+    "timeline": {
+      "events": [
+        {
+          "date": "2014",
+          "title": "Concept Proposed",
+          "description": "Initial proposal for Patna Metro submitted to central government"
+        },
+        {
+          "date": "2016",
+          "title": "Feasibility Study",
+          "description": "Detailed project report prepared by RITES"
+        },
+        {
+          "date": "Feb 2018",
+          "title": "Approval Granted",
+          "description": "Union Cabinet approves Patna Metro project"
+        },
+        {
+          "date": "Feb 2019",
+          "title": "Foundation Laid",
+          "description": "PM Modi lays foundation stone for the project"
+        },
+        {
+          "date": "2021",
+          "title": "Construction Begins",
+          "description": "Actual construction work starts on priority corridors"
+        },
+        {
+          "date": "2025",
+          "title": "First Trial Run",
+          "description": "Expected trial run on completed sections"
+        },
+        {
+          "date": "2027 (Expected)",
+          "title": "Full Operation",
+          "description": "Expected completion of Phase 1"
+        }
+      ]
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "routeFinder": "Route Finder",
+    "metroMap": "Metro Map",
+    "fareInfo": "Fare Info",
+    "about": "About"
+  },
+  "JourneySummary": {
+    "title": "Journey Summary",
+    "time": "Time",
+    "minutes": "min",
+    "fare": "Fare",
+    "stations": "Stations"
+  },
+  "serviceTimings": "Service Timings",
+  "firstTrain": "First Train",
+  "lastTrain": "Last Train",
+  "frequency": "Frequency",
+  "mins": "Mins",
+  "keyInterchanges": "Key Interchanges",
+  "blueLine": "Blue Line",
+  "redLine": "Red Line",
+  "elevated": "Elevated",
+  "underground": "Underground",
+  "totalStations": "Total Stations",
+  "totalLength": "Total Length",
+  "corridors": "Corridors",
+  "busiestStations": "Busiest & Key Stations",
+  "metroStats": {
+    "title": "🏗️ Patna Metro - At a Glance",
+    "elevated": "Elevated",
+    "underground": "Underground",
+    "stations": "Stations",
+    "totalStations": "Total Stations",
+    "totalLength": "Total Length",
+    "km": "km",
+    "corridors": "Corridors",
+    "busiestStations": "Busiest & Key Stations"
+  },
+  "stationsDesc": {
+    "PatnaJunction": "Busiest interchange • Direct connect to railway station",
+    "GandhiMaidan": "Historic landmark • Busy area",
+    "PMCH": "Medical college • Hospital area",
+    "PatnaZoo": "Tourist spot • Busy on weekends",
+    "NewISBT": "Bus terminal • Transport hub",
+    "appName": "Patna Metro",
+    "appTagline": "Bihar's capital on the move",
+    "menu": "Menu",
+    "settings": "Settings",
+    "tapToExplore": "Tap to explore",
+    "switchToHindi": "Switch to Hindi",
+    "switchToEnglish": "Switch to English",
+    "madeWithLove": "Made with love in",
+    "bihar": "Bihar",
+    "version": "Version"
+  }
+}

